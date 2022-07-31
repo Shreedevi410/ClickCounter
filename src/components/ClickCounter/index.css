@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.counter-container {
+  text-align: center;
+  margin: 30px;
+  padding-top: 40px;
+  background-color: #ffffff;
+}
+
+.heading {
+  font-size: 45px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.para {
+  font-size: 25px;
+  font-weight: 100;
+  font-family: 'Roboto';
+}
+
+.counter {
+  color: #c20a72;
+  font-weight: bold;
+}
+.button-container {
+  background-color: blue;
+  color: #ffffff;
+}
